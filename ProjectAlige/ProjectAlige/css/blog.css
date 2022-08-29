@@ -1,0 +1,71 @@
+.form-search-item {
+    width: 200px;
+    height: 40px;
+    border-radius: 3px 0 0 3px;
+    border-right: 0;
+    box-shadow: inset 0 1px 2px rgb(0 0 0 / 0%);
+    background: #f1f1f1;
+    border: none;
+}
+.form_search-item {
+    font-weight: 700;
+    width: 50px;
+    height: 40px;
+    background: #c89979;
+    display: inline-block;
+    font-family: "Montserrat", "Trebuchet MS", Helvetica, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    position: relative;
+    position: absolute;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border: none;
+    color: white
+}
+.badge-inner {
+    border-radius: 999px;
+    width: 40px;
+    height: auto;
+    background-image: url(http://mauweb.monamedia.net/donghohaitrieu/wp-content/uploads/2019/07/new-4-150x150.jpg);
+}
+.recent-blog-posts-li {
+    margin-top: 10px;
+    border-top: 1px dashed #ececec;
+    display: flex;
+}
+.is-divider {
+    font-size: 14px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 15px;
+    background-color: rgba(221, 221, 221, 0.1);
+}
+.flex-col a {
+    color: #333333;
+    text-decoration: none;
+}
+.card-item-hover:hover {
+    cursor: pointer;
+    box-shadow: 0 3px 6px -4px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 23%);
+}
+.post-title {
+    font-size: 17px;
+}
+.is-divider-item {
+    margin-top: 13px;
+    margin-bottom: 5px;
+    height: 2px;
+    background-color: rgba(0,0,0,0.1);
+    max-width: 30px
+}
+.border-left{
+border-left: 1px solid #ececec;
+}
+.from_the_blog_excerpt {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    height: 3em;
+}

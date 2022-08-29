@@ -1,0 +1,38 @@
+.img-inner > img {
+    width: 585px;
+    height: auto; 
+}
+.col-inner > p {
+    font-size: 16px;
+}
+.icon-inner svg {
+    width: 58px;
+}
+.icon-inner {
+    display: flex !important;
+}
+.icon-inner h5 {
+    margin-left: 20px;
+    font-weight: 700;
+}
+.icon-inner p {
+    margin-left: 20px;
+}
+.gap-element {
+    margin-top: 160px;
+    transform: translate3d(0px, -65.85px, 0px);
+    background-color: #666 !important;
+    background-position: 0% 45%;
+    background-image: url(http://mauweb.monamedia.net/donghohaitrieu/wp-content/uploads/2019/07/banner-portfolio.jpg);
+}
+.gap-element-item {
+    text-align: center;
+    padding-top: 80px;
+}
+.section-bg-overlay {
+    height: 230px;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+.gap-element-img {
+    text-align: center;
+}

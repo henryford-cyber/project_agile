@@ -1,0 +1,34 @@
+{
+    "product" : [
+        {
+            "id" : 1,
+            "name" : "sản phẩm",
+            "price" : 1000,
+            "image" : "http://mauweb.monamedia.net/donghohaitrieu/wp-content/uploads/2019/07/product-16.jpg"
+        },
+        {
+            "id" : 2,
+            "name" : "sản phẩm",
+            "price" : 1000,
+            "image" : "http://mauweb.monamedia.net/donghohaitrieu/wp-content/uploads/2019/07/product-16.jpg"
+        },
+        {
+            "id" : 3,
+            "name" : "sản phẩm",
+            "price" : 1000,
+            "image" : "http://mauweb.monamedia.net/donghohaitrieu/wp-content/uploads/2019/07/product-16.jpg"
+        },
+        {
+            "id" : 4,
+            "name" : "sản phẩm",
+            "price" : 1000,
+            "image" : "http://mauweb.monamedia.net/donghohaitrieu/wp-content/uploads/2019/07/product-16.jpg"
+        },
+        {
+            "id" : 5,
+            "name" : "sản phẩm",
+            "price" : 1000,
+            "image" : "http://mauweb.monamedia.net/donghohaitrieu/wp-content/uploads/2019/07/product-16.jpg"
+        }
+    ]
+}

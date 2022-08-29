@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "image": "http://mauweb.monamedia.net/donghohaitrieu/wp-content/uploads/2019/07/product-16.jpg",
+      "name": "ORIENT NAM",
+      "price": "2.500.000",
+      "sale": "1.500.000",
+      "id": 1
+    },
+    {
+      "name": "CASIO MTP",
+      "price": "2.500.000",
+      "sale": "2.000.000",
+      "image": "http://mauweb.monamedia.net/donghohaitrieu/wp-content/uploads/2019/07/product-13.jpg",
+      "id": 2
+    },
+    {
+      "image": "http://mauweb.monamedia.net/donghohaitrieu/wp-content/uploads/2019/07/product-11.jpg",
+      "name": "G-SHOCK NAM",
+      "price": "2.500.000",
+      "sale": "2.200.000",
+      "id": 3
+    },
+    {
+      "image": "http://mauweb.monamedia.net/donghohaitrieu/wp-content/uploads/2019/07/product-14.jpg",
+      "name": "CASIO NAM",
+      "price": "1.500.000",
+      "sale": "1.000.000",
+      "id": 4
+    }
+  ]
+}
